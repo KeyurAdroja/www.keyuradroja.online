@@ -4,13 +4,13 @@ import { Link } from "react-router-dom";
 const Footer = () => {
   return (
     <>
-      <div className="footer-container">
+      <div className="footer-container" style={{ paddingBottom: "20px" }}>
         <footer className="bg-primary short-2">
-          <div className="container">
+          <div className="container" style={{ MarginBottom: "20px" }}>
             <div className="row">
               <div className="col-sm-12 text-center">
                 <i className="icon arrow_down"></i>
-                <a href="img/Keyur_Adroja_CV.pdf" className="text-white" target="_blank">
+                <a href="./Assets/img/Keyur_Adroja_CV.pdf" className="text-white" target="_blank">
                   <span className="text-white">
                     Download My CV <i className="icon arrow_down"></i>
                   </span>
