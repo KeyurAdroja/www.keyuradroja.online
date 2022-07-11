@@ -184,9 +184,9 @@ const Home = () => {
                 <div className="hover-state">
                   <div className="align-vertical">
                     <h1 className="text-white">
-                      <strong>http://bacio.co.nz/</strong>
+                      <strong>http://www.keyuradroja.online/</strong>
                     </h1>
-                    <p className="text-white">Bar and Cafe based in Whangarei,NZ</p>
+                    <p className="text-white">Website CV converted in React from HTML</p>
                     <a href="http://bacio.co.nz/" target="_blank" className="btn btn-primary btn-white">
                       See Project
                     </a>
@@ -200,7 +200,7 @@ const Home = () => {
         </section>
         <section>
           <div className="col-md-12" style={{ textAlign: "center" }}>
-            <a href="portfolio.html" className="link-text" target="_self">
+            <a href="./portfolio" className="link-text" target="_self">
               MORE PROJECTS
             </a>
           </div>
@@ -215,7 +215,7 @@ const Home = () => {
                 <p className="lead">
                   <i></i>
                   Started as a graphics designer with passion and constant learning moved on adaptive website developing and designing. With the market trends and egarness to learn new technologies I
-                  learned responsive mobile driven websites using front end framework i.e. Bootstrap, Mvc with C#.
+                  learned responsive mobile driven websites using frontend framework and tools i.e. ReactJs, Bootstrap, Mvc with C#.
                 </p>
               </div>
             </div>
@@ -296,7 +296,9 @@ const Home = () => {
                 <div className="timeline-event">
                   <div className="col-sm-6">
                     <h2>2014-2016</h2>
-                    <h5>2+ years All round Experience in Web - Design - Sign - Print</h5>
+                    <h5>
+                      2+ years All round Experience in - Design <br /> - Web development - CustomerService
+                    </h5>
                   </div>
 
                   <div className="middle">
@@ -306,8 +308,8 @@ const Home = () => {
 
                   <div className="col-sm-6">
                     <p>
-                      A technically savvy web developer, with a multiple years of <b> "website design/development - Printing - Signage Design" </b> experience. I can be a strong driving force for
-                      improving the performance, scalability and reliability of development projects.
+                      Web developer, with a multiple years of <b> "website design/development - with branding" </b> experience. I can be a strong driving force for improving the performance,
+                      scalability and reliability of development projects.
                     </p>
                   </div>
                 </div>
@@ -324,7 +326,9 @@ const Home = () => {
                   </div>
 
                   <div className="col-sm-6 col-md-pull-6">
-                    <p>In Year 2013, came from India and started study in Ntec, Auckland, major in subject software development.</p>
+                    <p>
+                      In Year 2013, came from India and started study in Ntec, Auckland, <br /> major in subject software development.
+                    </p>
                   </div>
                 </div>
 
@@ -340,7 +344,9 @@ const Home = () => {
                   </div>
 
                   <div className="col-sm-6">
-                    <p>Completed graduation from Arya college of engineering, Jaipur, India in Computer Science Engineering.</p>
+                    <p>
+                      Completed graduation from Arya college of engineering, Jaipur, India in <br /> Computer Science Engineering.
+                    </p>
                   </div>
                 </div>
               </div>

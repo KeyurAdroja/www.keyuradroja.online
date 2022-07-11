@@ -13,10 +13,9 @@ const About = () => {
                   <strong>A little information about me</strong>
                 </h1>
                 <p className="lead" style={{ textAlign: "justify" }}>
-                  A technically savvy New Zealand resident, with a multiple years of website design and development experience. I can be a strong driving force for improving the performance,
-                  scalability and reliability of development projects. I have a long track record of creating dynamic, rich and interesting web portals, and of providing long term solutions to
-                  front-end problems. I have an experience of working in leading website development companies and of completing challenging client projects. As a self-directed and self-managed
-                  person, I am always pushing myself to deliver ongoing process improvements in anything I do.
+                  A technically savvy New Zealand resident, with a multiple years of website design and development experience. I can be a strong driving force for improving the performance, front-end
+                  problems. I have an experience of working in leading website development companies and of completing challenging client projects. As a self-directed and self-managed person, I am
+                  always pushing myself to deliver ongoing process improvements in anything I do.
                 </p>
               </div>
             </div>
@@ -27,18 +26,18 @@ const About = () => {
           <div className="container">
             <div className="row">
               <div className="col-sm-6 align-vertical no-align-mobile">
-                <h1>Things I enjoy web/design/print/sign</h1>
-                <h6>Because I love Branding</h6>
-                <p className="lead">
-                  I have 2+ years experience as a front-end developer and creating responsive templayte based customised websites of a high quality. In my experience as a web desgner/developer in New
-                  Zealand I have obtained an eye for detail and appreciation for design, knowledge of domain and hosting , as well as knowing how to efficiently project manage and work with clients
-                  and colleagues successfully. I now doing fulltime job as a front-end development but my knowledge of multiple fields design/print/Signage allows me to work on a project with the full
-                  scope in mind; simplifying the process of our working together and producing a more cohesive experience for your users.
+                <h1>Things I enjoy Web/code/UI/API</h1>
+                <h6>Because I love Coding</h6>
+                <p className="lead" style={{ textAlign: "justify" }}>
+                  I have 2+ years experience as a front-end developer and creating responsive template based customised websites of a high quality. In my experience as a web desgner/developer in New
+                  Zealand I have obtained an eye for detail and appreciation for design, knowledge of domain, hosting and digital marketing , as well as knowing how to efficiently project manage and
+                  work with clients and colleagues successfully. Currently looking for a fulltime job as a frontend development but my knowledge of multiple fields design, development and managing
+                  projects allows me to work on a project with the full scope in mind; simplifying the process of our working together and producing a more cohesive experience for your users.
                 </p>
               </div>
 
               <div className="col-sm-6 text-center">
-                <img alt="Product Image" className="product-image" src="./Assets/img/devices.png" />
+                <img alt="Rotorua trip" className="product-image" src="./Assets/img/devices.jpg" />
               </div>
             </div>
           </div>
@@ -56,28 +55,19 @@ const About = () => {
               <div className="col-sm-6">
                 <div className="feature feature-icon-large">
                   <div className="pull-left">
-                    <i className="icon icon-desktop"></i>
-                  </div>
-                  <div className="pull-right">
-                    <h5>Web development</h5>
-                    <p>
-                      Technologies mainly I work with <b>HTML5/CSS3/Java Script.</b>
-                      Latest framework I have used like <b>Bootstrap, Angular,scss, less</b>
-                      Along with that Ive completed some of the projects in <b>MVC with C#, third party CMS, Web view mobile app design</b>.
-                    </p>
-                  </div>
-                </div>
-              </div>
-
-              <div className="col-sm-6">
-                <div className="feature feature-icon-large">
-                  <div className="pull-left">
                     <i className="icon icon-genius"></i>
                   </div>
                   <div className="pull-right">
-                    <h5>Graphics Design</h5>
+                    <h5>Tech Skills</h5>
                     <p>
-                      For the graphics design mainly I use <b>photoshop and Corel draw</b>.
+                      Technologies mainly I work with <b>HTML5, CSS3, JavaScript.</b>
+                      <br />
+                      React tools I'm familier with <b>ReactJs, Express Js, TypeScript, ES6</b>
+                      <br />
+                      Latest css framework I have used like <b>Bootstrap3, Tailwind</b> <br /> Because of my constant learning nature I have full knowledge of
+                      <b> Domain, Hosting,</b>
+                      <b> SEO, Digital Marketing,</b>
+                      <b> MVC with C#</b>
                     </p>
                   </div>
                 </div>
@@ -86,27 +76,20 @@ const About = () => {
               <div className="col-sm-6">
                 <div className="feature feature-icon-large">
                   <div className="pull-left">
-                    <i className="icon icon-global"></i>
+                    <i className="icon icon-desktop"></i>
                   </div>
                   <div className="pull-right">
-                    <h5>Domain - Hosting</h5>
+                    <h5>Soft Skills</h5>
                     <p>
-                      Because of my constant learning nature I have full knowledge of <b>domain registration, web hosting, ftp transfer and Server</b> related stuffs.
-                    </p>
-                  </div>
-                </div>
-              </div>
-
-              <div className="col-sm-6">
-                <div className="feature feature-icon-large">
-                  <div className="pull-left">
-                    <i className="icon icon-gears"></i>
-                  </div>
-                  <div className="pull-right">
-                    <h5>Printing - Signage</h5>
-                    <p>
-                      As customer needs branding, so I am very good in logo design - printing and sign desing, processing and finalise products. Familier with
-                      <b> roland versaworks, flexi Sign, digital printer, fiery software, printing, cutting, fiishing and customer handling.</b>
+                      <b>- Managing</b> the team of 4+ members in fast paced industry
+                      <br />
+                      <b>- Deadline:</b> Priorities jobs by client and due dates/ times
+                      <br />
+                      <b>- Dedicated:</b> Ensure all files are accurately prepared for next one
+                      <br />
+                      <b>- Focused:</b> Liaise with the Manager, Team Leader on job scheduling
+                      <br />
+                      <b>- Communication | - Critical Thinker | - Organized</b>
                     </p>
                   </div>
                 </div>

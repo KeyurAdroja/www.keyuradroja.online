@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { Link, Outlet } from "react-router-dom";
 import "../navbar1.css";
 function Navbarnew() {
   const [isNavExpanded, setIsNavExpanded] = useState(false);
@@ -27,17 +28,18 @@ function Navbarnew() {
         <div className="navigation-menu">
           <ul>
             <li>
-              <a href="/">Home</a>
+              <Link to="/">Home</Link>
             </li>
             <li>
-              <a href="/about">About</a>
+              <Link to="About">About</Link>
             </li>
             <li>
-              <a href="/Portfolio">Portfolio</a>
+              <Link to="Portfolio">Portfolio</Link>
             </li>
           </ul>
         </div>
       </nav>
+      <Outlet />
     </>
   );
 }

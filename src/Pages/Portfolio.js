@@ -8,34 +8,8 @@ function Portfolio() {
         <section className="no-pad-bottom projects-gallery">
           <div className="projects-wrapper clearfix">
             <div className="container">
-              <div className="projects-container column-projects">
-                <div className="col-md-4 col-sm-6 project development image-holder">
-                  <div className="background-image-holder">
-                    <img className="background-image" alt="BackgroundImage" src="./Assets/img/project_1.jpg" />
-                  </div>
-                  <div className="hover-state">
-                    <div className="align-vertical">
-                      <h3 className="text-white">NEW ZEALAND INSTITUTE OF TECHNICAL TRAINING, Auckland</h3>
-                      <a className="btn btn-primary btn-white">See Project</a>
-                    </div>
-                  </div>
-                </div>
-
-                <div className="col-md-4 col-sm-6 project branding image-holder">
-                  <div className="background-image-holder">
-                    <img className="background-image" alt="BackgroundImage" src="./Assets/img/project_2.jpg" />
-                  </div>
-                  <div className="hover-state">
-                    <div className="align-vertical">
-                      <h3 className="text-white">EXPORT AUTO PARTS, Auckland</h3>
-                      <a href="http://carremovalnz.net" rel="" target="_blank" className="btn btn-primary btn-white">
-                        See Project
-                      </a>
-                    </div>
-                  </div>
-                </div>
-
-                <div className="col-md-4 col-sm-6 project print image-holder">
+              <div className="project-container column-projects">
+                <div className="col-md-6 col-sm-6 project print image-holder">
                   <div className="background-image-holder">
                     <img className="background-image" alt="Background Image" src="./Assets/img/project_3.jpg" />
                   </div>
@@ -48,29 +22,28 @@ function Portfolio() {
                     </div>
                   </div>
                 </div>
-
-                <div className="col-md-4 col-sm-6 project print image-holder">
+                <div className="col-lg-6 col-sm-6 project print image-holder">
                   <div className="background-image-holder">
                     <img className="background-image" alt="Background Image" src="./Assets/img/project_4.jpg" />
                   </div>
                   <div className="hover-state">
                     <div className="align-vertical">
-                      <h3 className="text-white">BACIO/ Bar & Cafe, Whangarei</h3>
-                      <a href="http://bacio.co.nz" target="_blank" className="btn btn-primary btn-white">
+                      <h3 className="text-white">Website CV</h3>
+                      <a href="http://www.keyuradroja.online/Portfolio" target="_blank" className="btn btn-primary btn-white">
                         See Project
                       </a>
                     </div>
                   </div>
                 </div>
 
-                <div className="col-md-4 col-sm-6 project branding image-holder">
+                <div className="col-md-4 col-sm-6 project development image-holder">
                   <div className="background-image-holder">
-                    <img className="background-image" alt="Background Image" src="./Assets/img/project_5.jpg" />
+                    <img className="background-image" alt="Background Image" src="./Assets/img/project_11.jpg" />
                   </div>
                   <div className="hover-state">
                     <div className="align-vertical">
-                      <h3 className="text-white">Wairoa Pizza, Wairoa</h3>
-                      <a href="http://wairoapizzas.com" target="_blank" className="btn btn-primary btn-white">
+                      <h3 className="text-white">Auckland Building Reports, Auckland</h3>
+                      <a href="http://abr.co.nz" target="_blank" className="btn btn-primary btn-white">
                         See Project
                       </a>
                     </div>
@@ -92,18 +65,19 @@ function Portfolio() {
                 </div>
                 <div className="col-md-4 col-sm-6 project development image-holder">
                   <div className="background-image-holder">
-                    <img className="background-image" alt="Background Image" src="./Assets/img/project_7.jpg" />
+                    <img className="background-image" alt="Background Image" src="./Assets/img/project_10.jpg" />
                   </div>
                   <div className="hover-state">
                     <div className="align-vertical">
-                      <h3 className="text-white">Musichood, Onehunga, Auckland</h3>
-                      <a href="http://musichood.co.nz" target="_blank" className="btn btn-primary btn-white">
+                      <h3 className="text-white">Employment Dispute Solutions, Auckland</h3>
+                      <a href="http://www.employmentdisputesolutions.co.nz/" target="_blank" className="btn btn-primary btn-white">
                         See Project
                       </a>
                     </div>
                   </div>
                 </div>
-                <div className="col-md-4 col-sm-6 project development image-holder">
+
+                <div className="col-lg-6 col-sm-6 project development image-holder">
                   <div className="background-image-holder">
                     <img className="background-image" alt="Background Image" src="./Assets/img/project_8.jpg" />
                   </div>
@@ -116,7 +90,8 @@ function Portfolio() {
                     </div>
                   </div>
                 </div>
-                <div className="col-md-4 col-sm-6 project development image-holder">
+
+                <div className="col-lg-6 col-sm-6 project development image-holder">
                   <div className="background-image-holder">
                     <img className="background-image" alt="Background Image" src="./Assets/img/project_9.jpg" />
                   </div>
@@ -124,85 +99,6 @@ function Portfolio() {
                     <div className="align-vertical">
                       <h3 className="text-white">Food Safe, Auckland</h3>
                       <a href="http://foodsafe.co.nz/" target="_blank" className="btn btn-primary btn-white">
-                        See Project
-                      </a>
-                    </div>
-                  </div>
-                </div>
-                <div className="col-md-4 col-sm-6 project development image-holder">
-                  <div className="background-image-holder">
-                    <img className="background-image" alt="Background Image" src="./Assets/img/project_10.jpg" />
-                  </div>
-                  <div className="hover-state">
-                    <div className="align-vertical">
-                      <h3 className="text-white">Employment Dispute Solutions, Auckland</h3>
-                      <a href="http://www.employmentdisputesolutions.co.nz/" target="_blank" className="btn btn-primary btn-white">
-                        See Project
-                      </a>
-                    </div>
-                  </div>
-                </div>
-                <div className="col-md-4 col-sm-6 project development image-holder">
-                  <div className="background-image-holder">
-                    <img className="background-image" alt="Background Image" src="./Assets/img/project_11.jpg" />
-                  </div>
-                  <div className="hover-state">
-                    <div className="align-vertical">
-                      <h3 className="text-white">Auckland Building Reports, Auckland</h3>
-                      <a href="http://abr.co.nz" target="_blank" className="btn btn-primary btn-white">
-                        See Project
-                      </a>
-                    </div>
-                  </div>
-                </div>
-                <div className="col-md-4 col-sm-6 project development image-holder">
-                  <div className="background-image-holder">
-                    <img className="background-image" alt="Background Image" src="./Assets/img/project_12.jpg" />
-                  </div>
-                  <div className="hover-state">
-                    <div className="align-vertical">
-                      <h3 className="text-white">Ace Builders Ltd, Manukau</h3>
-                      <a href="http://www.acebuilderz.co.nz/" target="_blank" className="btn btn-primary btn-white">
-                        See Project
-                      </a>
-                    </div>
-                  </div>
-                </div>
-
-                <div className="col-md-4 col-sm-6 project development image-holder">
-                  <div className="background-image-holder">
-                    <img className="background-image" alt="Background Image" src="./Assets/img/project_15.jpg" />
-                  </div>
-                  <div className="hover-state">
-                    <div className="align-vertical">
-                      <h3 className="text-white">Logo Design</h3>
-                      <a href="img/project_15.jpg" target="_blank" title="Logodesign" className="btn btn-primary btn-white">
-                        See Project
-                      </a>
-                    </div>
-                  </div>
-                </div>
-                <div className="col-md-4 col-sm-6 project development image-holder">
-                  <div className="background-image-holder">
-                    <img className="background-image" alt="Background Image" src="./Assets/img/project_13.jpg" />
-                  </div>
-                  <div className="hover-state">
-                    <div className="align-vertical">
-                      <h3 className="text-white">Some Graphics Design Sample</h3>
-                      <a href="img/project_13.jpg" target="_blank" className="btn btn-primary btn-white">
-                        See Project
-                      </a>
-                    </div>
-                  </div>
-                </div>
-                <div className="col-md-4 col-sm-6 project development image-holder">
-                  <div className="background-image-holder">
-                    <img className="background-image" alt="Background Image" src="./Assets/img/project_16.jpg" />
-                  </div>
-                  <div className="hover-state">
-                    <div className="align-vertical">
-                      <h3 className="text-white">Some Sign Design Sample</h3>
-                      <a href="img/project_16.jpg" target="_blank" className="btn btn-primary btn-white">
                         See Project
                       </a>
                     </div>
