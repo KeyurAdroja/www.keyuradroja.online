@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/www.keyuradroja.online/precache-manifest.1f71ced814e4ee83c4e70b3a4a0e1185.js"
+  "/www.keyuradroja.online/precache-manifest.5e353d39ee7b60953e07de6a60413834.js"
 );
 
 workbox.clientsClaim();

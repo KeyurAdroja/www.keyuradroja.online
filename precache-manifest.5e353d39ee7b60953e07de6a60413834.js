@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/www.keyuradroja.online/static/js/runtime~main.caac6c03.js"
   },
   {
-    "revision": "3570a70e5997d6137704d66550c4ead7",
+    "revision": "528c09495473e377cb99e93665b7b83a",
     "url": "/www.keyuradroja.online/index.html"
   }
 ];
