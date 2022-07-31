@@ -1,15 +1,15 @@
 {
-  "files": {
-    "main.css": "/www.keyuradroja.online/static/css/main.1e4ded4e.css",
-    "main.js": "/www.keyuradroja.online/static/js/main.de9288d7.js",
-    "static/js/787.c6beb42d.chunk.js": "/www.keyuradroja.online/static/js/787.c6beb42d.chunk.js",
-    "index.html": "/www.keyuradroja.online/index.html",
-    "main.1e4ded4e.css.map": "/www.keyuradroja.online/static/css/main.1e4ded4e.css.map",
-    "main.de9288d7.js.map": "/www.keyuradroja.online/static/js/main.de9288d7.js.map",
-    "787.c6beb42d.chunk.js.map": "/www.keyuradroja.online/static/js/787.c6beb42d.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.1e4ded4e.css",
-    "static/js/main.de9288d7.js"
-  ]
+  "main.css": "/static/css/main.cd7f9772.chunk.css",
+  "main.js": "/static/js/main.a6150a92.chunk.js",
+  "main.js.map": "/static/js/main.a6150a92.chunk.js.map",
+  "static/js/1.206e060b.chunk.js": "/static/js/1.206e060b.chunk.js",
+  "static/js/1.206e060b.chunk.js.map": "/static/js/1.206e060b.chunk.js.map",
+  "static/js/2.e305a0e2.chunk.js": "/static/js/2.e305a0e2.chunk.js",
+  "static/js/2.e305a0e2.chunk.js.map": "/static/js/2.e305a0e2.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.ae42267f.js",
+  "runtime~main.js.map": "/static/js/runtime~main.ae42267f.js.map",
+  "static/css/main.cd7f9772.chunk.css.map": "/static/css/main.cd7f9772.chunk.css.map",
+  "index.html": "/index.html",
+  "precache-manifest.581ba0fe7fb02dcd176bc15ca5185ad4.js": "/precache-manifest.581ba0fe7fb02dcd176bc15ca5185ad4.js",
+  "service-worker.js": "/service-worker.js"
 }
